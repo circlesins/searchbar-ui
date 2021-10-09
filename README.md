@@ -1,4 +1,4 @@
-# searchbar_ui
+# searchbar_ui - Mobile Programming
 
 A new Flutter project.
 
